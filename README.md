@@ -28,7 +28,7 @@
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
-<img align="left" alt="HTML5" width="35px" src="https://www.kindpng.com/picc/m/188-1882416_flask-python-logo-hd-png-download.png" />
+<img align="left" alt="HTML5" width="40px" src="https://www.kindpng.com/picc/m/188-1882416_flask-python-logo-hd-png-download.png" />
 <img align="left" alt="HTML5" width="35px" src="https://avatars.githubusercontent.com/u/2232217?s=200&v=4" />
 <p>
 <br>
