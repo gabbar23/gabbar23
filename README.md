@@ -14,6 +14,15 @@
 
 <br>
 
+ 👋 Hi, I’m Aman Saini
+- 👀 I’m interested in Full Stack Web Development
+- 🌱 I’m currently learning Flask and Django
+- 💞️ I’m looking to collaborate on Backend Developement
+- 📫 How to reach me email-amansaini842@gmail.com
+
+
+<br>
+
 ### Languages and Tools: 
 
 <p >
