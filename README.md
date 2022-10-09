@@ -51,3 +51,9 @@ Side Projects - Web      | [![Bookspot](https://img.shields.io/badge/Bookspot-bl
 
   <img align="center" width="990" height="165" src="https://github-readme-stats.vercel.app/api/?username=gabbar23&theme=transparent&show_icons=true&title_color=00FF00&icon_color=00FF00&text_color=00FF00" alt="github stats"/>
   </a>
+
+<div align="center">
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
