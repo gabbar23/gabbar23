@@ -1,45 +1,53 @@
+<h1 align="center">Hi 👋, I'm <a href="https://github.com/gabbar23" target="blank">
+Aman</a></h1>
+<h3 align="center">A Full Stack Developer From India &#127470;&#127475</h3>
+
+
 <br>
-<p>
-  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api/?username=gabbar23&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/>
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/citBl9yPwnUOs/giphy.gif">
+</a>
+
+
+
+- 🔭 I’m currently Studying Masters in <a href="https://www.dal.ca" target="blank">Dalhousie University</a> &#x1F1E8; &#x1F1E6; 
+
+- 🌱 I’m currently Working on Node Proejct.
+
+- 🤝 I’m available for freelancing.
+
+- 🌱 I’m currently learning Node & React 
+
+- 📫 How to reach me **amanjots399@gmail.com**
+
+<br><br><br><br>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+
+<p align="center">
+
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/amanjot-singh-iwnl">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/gabbar23">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/aman.sa1n1/">
+			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+      </div>
+
+</p>
+
+
+## Some Technologies I know
+Property                 | Data  
+-------------------------|------
+Language           |![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)  ![JavaScript](https://img.shields.io/badge/Javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/Typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
+ Framework         |  ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white) [![React Badge](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=Electron&logoColor=white)](https://github.com/zmcx16/AxisCult) ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![Jinja](https://img.shields.io/badge/Jinja-white.svg?style=flat&logo=jinja&logoColor=black) ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white)  
+Tools        | ![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=Npm&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white) [![photoshop Badge](https://img.shields.io/badge/-Photoshop-26C9FF?style=flat&logo=Adobe-Photoshop&logoColor=white)](https://github.com/search?q=user%3Azmcx16&type=Repositories) ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/Github-%23121011.svg?style=flat&logo=github&logoColor=white)
+IDE                 | [![Python Badge](https://img.shields.io/badge/-PyCharm-3776AB?style=flat&logo=Python&logoColor=white)](https://github.com/search?l=Python&q=user%3Azmcx16&type=Repositories) [![Html+CSS+Javascript Badge](https://img.shields.io/badge/-Visual%20Studio%20Code-F7DF1E?style=flat&logo=Javascript&logoColor=white)](https://github.com/search?l=JavaScript&q=user%3Azmcx16&type=Repositories) [![JAVA Badge](https://img.shields.io/badge/-Eclipse-007396?style=flat&logo=JAVA&logoColor=white)](https://github.com/search?q=user%3Azmcx16&type=Repositories)
+Database |   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=Mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=Mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/Sqlite-%2307405e.svg?style=flat&logo=Sqlite&logoColor=white)
+Side Projects - Web      | [![Bookspot](https://img.shields.io/badge/Bookspot-blue)](https://github.com/gabbar23/BookSpot) [![Personal](https://img.shields.io/badge/Personal-Blog-green)](https://github.com/gabbar23/Personal-Blog) [![Bot](https://img.shields.io/badge/Valorant-Bot-red)](https://github.com/gabbar23/Valorant-Discord-Bot) 
+
+<br>
+
+  <img align="center" width="990" height="165" src="https://github-readme-stats.vercel.app/api/?username=gabbar23&theme=transparent&show_icons=true&title_color=00FF00&icon_color=00FF00&text_color=00FF00" alt="github stats"/>
   </a>
-
-
-
-- 👋 Hi, I’m Aman Saini
-- 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning Flask and Django
-- 💞️ I’m looking to collaborate on Backend Developement
-- 📫 How to reach me email-amansaini842@gmail.com
-
-
-<br>
-
-
- 👋 Hi, I’m Aman Saini
-- 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning Flask and Django
-- 💞️ I’m looking to collaborate on Backend Developement
-- 📫 How to reach me email-amansaini842@gmail.com
-
-
-<br>
-
-### Languages and Tools: 
-
-<p >
-
-
-<img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="Js" width="35px" src="https://github.com/voodootikigod/logo.js/blob/master/js.png" />
-<img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
-<img align="left" alt="HTML5" width="42px" src="https://www.kindpng.com/picc/m/188-1882416_flask-python-logo-hd-png-download.png" />
-<img align="left" alt="HTML5" width="35px" src="https://avatars.githubusercontent.com/u/2232217?s=200&v=4" />
-<p>
-<br>
