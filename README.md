@@ -1,10 +1,3 @@
-<div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
-
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/gabbar23" target="blank">
 Aman</a></h1>
 <h3 align="center">A Full Stack Developer From India &#127470;&#127475</h3>
