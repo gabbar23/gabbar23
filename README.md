@@ -10,7 +10,7 @@ Aman</a></h1>
 
 
 
-- 🔭 I’m currently Studying Masters in <a href="https://www.dal.ca" target="blank">Dalhousie University</a> &#x1F1E8; &#x1F1E6; 
+- 🔭 I’m currently pursuing Masters in <a href="https://www.dal.ca" target="blank">Dalhousie University</a> &#x1F1E8; &#x1F1E6; 
 
 - 🌱 I’m currently Working on Node Proejct.
 
