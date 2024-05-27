@@ -2,27 +2,11 @@
 <br>
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/gabbar23" target="blank">
 Aman</a></h1>
-<h3 align="center">A Full Stack Developer From India &#127470;&#127475</h3>
+<h3 align="center">A Full Stack Developer From Canada &#127470;&#127475</h3>
+
 
 
 <br>
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
-</a>
-
-
-
-- 🔭 I’m currently pursuing Masters in <a href="https://www.dal.ca" target="blank">Dalhousie University</a> &#x1F1E8; &#x1F1E6; 
-
-- 🌱 I’m currently Working on Node Proejct.
-
-- 🤝 I’m available for freelancing.
-
-- 🌱 I’m currently learning Node & React 
-
-- 📫 How to reach me **am854663@dal.ca**
-
-<br><br><br><br>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
