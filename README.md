@@ -2,7 +2,7 @@
 <br>
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/gabbar23" target="blank">
 Aman</a></h1>
-<h3 align="center">A Full Stack Developer From Canada &#127470;&#127475</h3>
+<h3 align="center">A Full Stack Developer From Canada</h3>
 
 
 
